@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MyNBCLog",
+	"Description": "Practice Plugin for Sparta Log",
+	"Category": "Other",
+	"CreatedBy": "YourName",
+	"CanContainContent": true,
+	"Modules": [
+		{
+			"Name": "MySpartaLog",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		}
+	]
+}
